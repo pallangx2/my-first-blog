@@ -352,7 +352,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=ae71471c-b1b3-46d3-8893
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>29ff47fe-30c2-4455-a1de-90cb43fdd272</Id>
+<Id>5744b026-09b7-4473-923e-f3454f327aa7</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -370,7 +370,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d5960cf0-4be0-4c92-b99d-712114dc4d03</Id>
+<Id>ce5b5457-0c41-41c2-852e-d8a1ba006747</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -590,7 +590,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=b68bcda1-a5de-4592-b443
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ca96a29c-f6f7-4f37-bf5d-21ca936c4a98</Id>
+<Id>08fa3a88-a198-4ea8-a0dd-c390f129d4d1</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -609,7 +609,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>efdc2a34-f684-4dda-bfe1-d6b43f8e3462</Id>
+<Id>f4de4c56-01e1-4406-a5dd-291cb1103621</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -628,7 +628,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1b44adde-46e7-403e-a4de-35613169bad0</Id>
+<Id>b132d58f-fd10-4286-9bfa-571b88d1a8d7</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -646,7 +646,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>af37c167-af8d-4ded-85f2-ba8cfc6112cc</Id>
+<Id>a9dab879-4a4a-4b24-b8ec-d9c9bbe47d6f</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -1180,7 +1180,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=15b45e58-e700-4d67-9598
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>61e99aad-b37f-43ea-a2fe-9592a5a78c68</Id>
+<Id>a27c0b4b-7408-4cc8-97da-910da2a66457</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -1198,7 +1198,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>58314a24-cfe7-48d2-acd2-ad2c37229fe0</Id>
+<Id>5d93be12-dd73-44bc-9a1a-c2ee876449e6</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -1560,7 +1560,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=ca8ba376-ecc2-4ead-b7bd
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>fe2a6695-8cd1-433a-8f4e-f63c38d6dbb0</Id>
+<Id>b32573d6-44b2-4617-8a85-2deb7bca3c44</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -1578,7 +1578,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>8532b5f6-3e69-4146-922f-56cbb103e172</Id>
+<Id>dfecba9f-ac07-4638-965f-988ae6e958f6</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -2168,7 +2168,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=546e042a-3034-4175-a325
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>fbfa6829-c7ac-46df-92c6-b0c95683c1c1</Id>
+<Id>362ab4cb-b95b-42f8-99e0-24cc178d4d4f</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -2186,7 +2186,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f415a8de-bb7b-468e-bd1a-146b71e6033d</Id>
+<Id>9b967339-710e-49ce-bf39-3dfb4b10f76f</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -2861,7 +2861,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=a68782d5-7f8f-4630-b889
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ec69946a-8ae5-47a8-a3e1-1a26a6995aab</Id>
+<Id>bcc7d7c1-5bea-4d4e-bcb7-5bb190890202</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -2879,7 +2879,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ec53f513-0fd1-4ca5-b10a-73f0ef0729fa</Id>
+<Id>f38c411c-d3ca-47a4-bb90-cbe1670d39d4</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -3170,7 +3170,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=9aea3a95-45ea-49f9-b462
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1f3722c4-ff7e-473e-a730-0073e4ff16cf</Id>
+<Id>948afbc9-2b1c-4d80-b7df-4888a067f424</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3189,7 +3189,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f95c21f8-3379-4859-9f6f-b5f451c1fd63</Id>
+<Id>1358d965-e6c3-4be3-bc5b-53c74c07125a</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3208,7 +3208,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>6a15a3b6-59f3-4315-bb34-b82b15a7cf29</Id>
+<Id>0b12ebeb-041e-4675-82e9-dae0b35bdd2d</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -3226,7 +3226,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>692e0cb1-2721-422a-8226-0f3a8035b041</Id>
+<Id>1db1f477-78b7-4f88-a260-1c993de44621</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -3285,7 +3285,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>a42743a9-2fdc-4ff1-8d73-59e0a7a0d93d</Id>
+<Id>a33ca7a0-ae99-43cb-95d7-71f5cca49694</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3304,7 +3304,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>86767988-9113-4d16-b84a-b4f757ab47c5</Id>
+<Id>2c964a82-4fc3-472f-94cd-f1ff52cc2a6f</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3323,7 +3323,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4ba10353-1305-4b46-b479-2d98495871c4</Id>
+<Id>421c4626-4381-43d0-b329-5fffb2f1f6a3</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -3341,7 +3341,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1a195b9b-f6bd-44cf-80b9-47e96e750fc5</Id>
+<Id>fba182fa-ddfe-44d6-9f1c-0059db70ec34</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -3437,7 +3437,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>3f379f2d-7060-4b39-9e7a-d9b24cc3a7c0</Id>
+<Id>9dcbb810-54b5-4c03-97d6-891f666a17d0</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3456,7 +3456,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>90a7bcae-cef1-464d-9732-7a999141a5b0</Id>
+<Id>c7635e40-8a01-4840-b6b6-682b92a2d33c</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3475,7 +3475,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>16f7edc5-e25a-4d1c-b580-0c78187bbca3</Id>
+<Id>f3bbeea7-9fe6-4162-9259-684f17bef025</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -3493,7 +3493,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9eda9598-6544-466a-9522-026450cf28f2</Id>
+<Id>f58a2c9f-7bdf-499c-9ed6-4aeeef8e7e4f</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -3589,7 +3589,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>5e31c58b-b7db-4f50-9009-8506d637ef2b</Id>
+<Id>c21cfa8c-8bc1-4f05-a660-0a9c711393a2</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3608,7 +3608,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>2d0beb92-d57c-4a3f-a0d2-cdd75452b09f</Id>
+<Id>d44f8430-a97e-4a19-9e80-9dc6d2dbdf60</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3627,7 +3627,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1989323e-5a62-4dd2-9ebc-8136d385b889</Id>
+<Id>b396ea17-1ca6-4e8c-92ec-d651ec37b07a</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -3645,7 +3645,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>77601898-99ab-4f75-9c4a-feaa57e3f0d2</Id>
+<Id>92951007-932f-44ec-8f01-1c363e2fa106</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -3684,7 +3684,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>23211f63-1cba-4bf1-af04-3d9ecb03fc13</Id>
+<Id>1e315638-df96-44f6-ba09-e0025d8d4ec2</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3703,7 +3703,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>20866530-b93b-4563-8d35-67208fc91253</Id>
+<Id>daeb79ae-14fa-48d7-bea1-14791e6db2a6</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -3722,7 +3722,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>089faf8f-5287-4b5a-8d67-fbb413f7ba10</Id>
+<Id>8e02235a-3189-4e9b-b5e7-87d3f1cc73e5</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -3740,7 +3740,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>53091d38-9110-4141-8eb2-1d8766476080</Id>
+<Id>1bd1125b-2070-4486-9da8-b815c3894611</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -4003,7 +4003,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=6105f7f6-4def-4ebd-b647
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>564240d5-4c16-44b8-98ee-d1a77a0f2d03</Id>
+<Id>e6e3a4ac-a230-4067-99d8-ef0e57efa4c4</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -4022,7 +4022,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a295c863-0efc-4aa2-aeaf-c8b91982de3c</Id>
+<Id>1f7162bd-1a61-4208-a3f4-9926d500f73f</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -4041,7 +4041,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e86f7b16-4d9b-4eab-8807-67b33eaeb428</Id>
+<Id>fb58df5a-aea9-4c2e-b320-2770a0bdcb4d</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -4059,7 +4059,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c998c617-ba88-4842-8ba3-695ee87fc01c</Id>
+<Id>0fc8b9ab-a29d-4a34-ba4e-55f0376f1479</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -4631,7 +4631,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=18ec3f07-3c14-49d1-b588
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>58b85ae5-fec4-45be-ab9b-ea75828bcd1a</Id>
+<Id>973dee97-f62d-4066-971e-58b64ee6cfed</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -4649,7 +4649,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>53ba1e8b-a94a-4d32-8916-b78a8fd5ed9c</Id>
+<Id>f54462cd-82fd-428d-b684-c3e44adec0a4</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -5342,7 +5342,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=6936fbce-ed7b-4e95-b85c
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c475d9f1-88ed-45c4-8814-05af9b24952c</Id>
+<Id>e940ae92-a94d-4636-996a-562cd2c244f8</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -5360,7 +5360,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ba6e0c3b-b2b2-40d7-b0be-6700e133d15d</Id>
+<Id>95b0d01f-f363-4b2a-a83b-545657ca6a96</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -5941,7 +5941,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=ad07d328-2363-4630-8001
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>6d5cfe23-17cb-491b-8ccb-794f0e8f6884</Id>
+<Id>e9e346b2-0796-4d17-82b9-2cef0a2ec3ad</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -5959,7 +5959,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c24dfe68-326c-4b57-8eb8-4ce1d4da9850</Id>
+<Id>8cef9e03-1566-4c60-bdf3-976215d55fc6</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -6595,7 +6595,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=a7faa619-57bb-4bac-a89c
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>59a98fd1-fb35-429a-8e1b-b3d00161ba1b</Id>
+<Id>d41d1993-3033-4e23-a398-eea6d99f8749</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -6613,7 +6613,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>6f0db08d-0297-4273-93f5-4a0eb9d709e7</Id>
+<Id>df8d728e-fb33-43a7-a5ac-1d86917f525e</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -6989,7 +6989,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=a1a9d4b2-a5a9-4cc1-ab76
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>00c14246-af29-4c81-bac8-7fb9ef2126fa</Id>
+<Id>15886b28-1ff8-456e-bf6c-d47dd0d1bd48</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -7007,7 +7007,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>8689b225-05e9-4336-8158-7e3ec02b12ce</Id>
+<Id>8b695fc1-da7f-4844-9e25-d60f22c7d70d</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -7502,7 +7502,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=74b03f34-c2ad-4690-b578
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>bd21bc88-22e7-4b93-b8f4-c11a38541297</Id>
+<Id>9a02761b-02ab-4322-a879-d44f2d99b39d</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -7520,7 +7520,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c1d245ca-50e6-4a8c-be4b-c74ede79c209</Id>
+<Id>7002f4c3-2ac7-42eb-bf5b-ef9754111682</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -8086,7 +8086,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=1a3cf767-7143-4989-918f
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>19e1edf9-5b15-40a5-bfaa-feec4bd8b86e</Id>
+<Id>fdcdd0fb-d479-47ff-9e99-25fa58ee79fe</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -8104,7 +8104,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>31f45cec-bc10-4f4f-8984-27448bff513b</Id>
+<Id>1b885d3e-720b-4ebc-96ad-c58216a18ed0</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -8381,7 +8381,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=b7779eb5-8f80-4a57-9453
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>dce337ec-77d8-4dfd-aef1-2bf71928cdf1</Id>
+<Id>ed449243-2c0b-4a48-baa0-57bf8f65e36c</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -8400,7 +8400,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>543c2223-6ac9-48f7-ac16-e4ff3882af05</Id>
+<Id>417e1d11-a732-4fb6-b532-459425029a8f</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -8419,7 +8419,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ecbe349c-82d7-46f3-b546-730b387b86c6</Id>
+<Id>28c004c6-52a5-4289-9b66-e57deba804d9</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -8437,7 +8437,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>96c7f74c-824e-4972-a016-f23fa97c3ce3</Id>
+<Id>bb18fc30-41a8-4211-aebc-a4d9375f94de</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -8496,7 +8496,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>51926726-5461-47b7-970c-cca29e8a56dc</Id>
+<Id>aa0f9184-5d8c-4343-bd1c-ff28a5b54e96</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -8515,7 +8515,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>8227feaa-ceae-4a59-b125-829ecaa0e801</Id>
+<Id>917aa3d6-808b-4171-86cb-ccbb98463fbf</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -8534,7 +8534,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1e1b682c-4353-43fe-99e6-f97addd35822</Id>
+<Id>b5dcda81-b71a-4c72-ad1c-596b60807ce1</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -8552,7 +8552,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>172a3ecb-5fbc-491b-9309-1c0f8e940bde</Id>
+<Id>06d049f5-c219-4d79-9a1d-7a9390cf7f9b</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -9014,7 +9014,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=5b43c29e-30e9-443d-9073
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f4338ec3-a43b-4e74-b6b5-8490a210e20d</Id>
+<Id>b900aed7-e541-4398-93c1-1a3bfc193b1f</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -9032,7 +9032,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>93037d33-db06-460d-a992-733bf7b210b8</Id>
+<Id>6a67fec1-3e13-49c5-a69a-a161769671bd</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -9508,7 +9508,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=09a10be0-1cec-427e-8c98
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>7c63bc9a-6517-4304-b773-7dc93f358a79</Id>
+<Id>4fdbf076-6f75-4712-bf30-8f16970ce41d</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -9526,7 +9526,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c51e5a41-7460-42a6-a14c-0351787741c5</Id>
+<Id>45e96cab-dd01-40d4-9514-1c24329d1de2</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -9622,7 +9622,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>5c2e1675-1e03-45ff-9315-18b86605d490</Id>
+<Id>c41a3b41-bec1-4d9a-af98-07ae8c76328e</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -9641,7 +9641,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c9c48626-8330-4b10-97cc-dd2d44f1e835</Id>
+<Id>62c9b096-1365-4879-b272-90738cbf5155</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -9660,7 +9660,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1dc42ba2-5d74-4a52-9572-8bf987ec07af</Id>
+<Id>5f2fa66b-61bb-4052-ade6-411670374984</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -9678,7 +9678,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>2ec19007-22f3-4bfa-a475-679e25d55a89</Id>
+<Id>051bda6f-5977-4591-a5c5-8b677d5eafa4</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -10059,7 +10059,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=e9b6d073-f51d-4aee-a214
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>fa664fe4-4e6b-4cdb-8b4f-4841fcb20ab4</Id>
+<Id>fb98b17e-6372-49eb-8050-b555888f4a6a</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -10077,7 +10077,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c2a5266a-d8a5-4e14-8abe-45fa0c448b72</Id>
+<Id>31c44028-4441-44b7-85e3-0bb8cdf24dc0</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -10473,7 +10473,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=19f607a5-0070-4d36-937a
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>75321cd4-8ebc-4de9-82ca-309eeb91a04b</Id>
+<Id>ebbbd1cb-6168-4a4c-b515-70bc967ef3c9</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -10491,7 +10491,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b6f9d7fa-2982-4179-a0ae-3711373ff6b4</Id>
+<Id>894ea1b6-8e47-444b-b621-be4dd967e83a</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -10740,7 +10740,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=e8d2f6b7-5270-4b2c-885c
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>05b59c3a-4297-4d1d-8ce7-cc3e6a28a9da</Id>
+<Id>ccc0a5dc-5141-453f-bf1c-10d8c37ed7ba</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -10759,7 +10759,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e98e7973-3813-444c-bfd6-bce039d9c7e0</Id>
+<Id>44fd8d62-0e17-488d-8474-c70d73282a1b</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -10778,7 +10778,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>dd8a1ae4-9796-48b5-9d08-e69419da637e</Id>
+<Id>a7b2903e-5374-4f65-865d-d7af184ce8a9</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -10796,7 +10796,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>986bdc14-ff4c-4a82-b7e0-08efc1e496f0</Id>
+<Id>98fd0240-d1d0-417e-a7da-e97d08f9c74b</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -11121,7 +11121,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=6b710a6e-a62c-4964-8641
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4138d8cf-ee8f-42ef-82f8-333a28bf3488</Id>
+<Id>533cfa33-5370-4f29-b437-6b2ff9be6ac4</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -11139,7 +11139,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b8169f3b-a13e-4960-afce-5c22d650f4c9</Id>
+<Id>b3a365c0-b074-4361-b15d-74239c27be34</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -11374,7 +11374,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=0d3f7936-561b-4ad5-819a
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4704e65e-71c4-49c5-a463-740ec0fc8963</Id>
+<Id>7c21ef43-4432-4072-bd65-516c3cbd59e5</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -11393,7 +11393,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ad7963ab-7de7-4cc9-aa64-3bda546e59cf</Id>
+<Id>c01f0765-0874-4397-9784-987627fbc5f6</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -11412,7 +11412,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f7627a3b-a3bb-4f16-9c17-5609314ff683</Id>
+<Id>d61c1d3d-b680-40df-a020-f603d99cc32f</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -11430,7 +11430,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>0fc04b16-53bc-4d14-b66c-c91d87568c10</Id>
+<Id>077f56ea-2f1b-4fd2-a2ca-5909b25a608c</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -12287,7 +12287,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=7f82f6d6-a8e3-4b08-b14c
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1c066fa2-62a8-42af-9ea9-f5bd02294862</Id>
+<Id>31a3d079-8c2d-4209-b922-535af1c6babc</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -12305,7 +12305,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d263c771-9884-463a-81e2-64dd73d0a5ce</Id>
+<Id>30d0cb4c-e6d5-423f-a545-0e7a1a7a7c6c</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -13209,7 +13209,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=f553fc49-fa9f-4da6-8ea3
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>dd547ed3-b9a9-4628-967e-e395ed8b23c8</Id>
+<Id>5388a960-ce2b-45d3-ac2a-ab6170cacf93</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -13227,7 +13227,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c3af280d-1d73-45ec-b779-d58579ca872c</Id>
+<Id>f96921f5-0ef7-4dc6-9126-2ad258074365</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -13476,7 +13476,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=eca3d1d2-a220-4f31-9344
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ffe30656-b688-43b3-8ddd-f0749025c315</Id>
+<Id>8794b10d-4f3e-4db2-b72a-9c9e6c8414ec</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13495,7 +13495,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e235bc91-c8c5-49a9-818d-9a9753c1e1fb</Id>
+<Id>c0a5a591-d0cf-4e99-9fcd-9f20b648c34c</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13514,7 +13514,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4f34b580-04b5-4ed7-8149-b60c1f3ccc09</Id>
+<Id>153cb5a2-cedd-463b-8c1f-e8f35f4d4bfa</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -13532,7 +13532,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9da9f273-a513-43cf-8f5c-7736ac585487</Id>
+<Id>957aef2b-6eb8-4fed-98b0-22471d0ad935</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -13591,7 +13591,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>bb827f37-745b-4e2d-9565-ed9202a84d42</Id>
+<Id>8b6e1869-61d1-4554-985f-a5672a676542</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13610,7 +13610,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d5dc8056-bd82-4a45-94e4-c27e87b76c77</Id>
+<Id>2c38adf5-c200-43fc-9150-d8e898c5d30c</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13629,7 +13629,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>21b07fc3-f37e-4497-94c0-43ec7f1bc596</Id>
+<Id>a3cac908-8536-433f-be5e-9e6c954f5a1c</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -13647,7 +13647,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c61ff742-09f2-4a5b-9818-d98beb88bb9c</Id>
+<Id>5d349eef-6bca-42fb-ac8e-c9de3555e541</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -13743,7 +13743,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>83075c75-0917-4092-8bde-62a34efd1626</Id>
+<Id>909a64a3-175b-495c-bd0f-bb35e2344ad9</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13762,7 +13762,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>249722e0-4c37-476c-bbd9-3f128e732dd8</Id>
+<Id>04cd03c4-c0ca-42ec-84b6-856da56ebe43</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13781,7 +13781,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b6432f03-b5cc-46e4-b16b-c6c955de99a3</Id>
+<Id>3e0822a2-f66f-4802-9e56-9c78f01fc906</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -13799,7 +13799,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d79fe940-3fd6-47a6-aa7f-017b58ec77a6</Id>
+<Id>8bfe13ce-5b8b-4fb7-912e-3d24b801c0cc</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -13838,7 +13838,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>08eac83a-9666-49f4-8bb4-151ce63bb5f9</Id>
+<Id>6a445f2c-7df8-479a-988c-37219b44025a</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13857,7 +13857,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>47a36fbf-19c9-4ff4-bfe2-53a790cfbaf8</Id>
+<Id>7d71039e-cd37-48c4-98d0-ce3d5d7ee9db</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13876,7 +13876,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>802575c8-59da-4e6b-af49-154c3bde92e3</Id>
+<Id>e8cc94a2-66c7-44a2-8a90-d2b5ea080b04</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -13894,7 +13894,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>75298f8e-7cde-4252-9c7f-08f1e1e4f7ce</Id>
+<Id>2e1f02a6-5e78-44f4-8044-58c248f42857</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -13948,7 +13948,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext/>
 <Assets>
 <Asset>
-<Id>267d49fd-b3c4-4459-822a-98e2cd777c2f</Id>
+<Id>b53aa7bb-9b5f-40c2-bfec-94a5b9aaa65b</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13967,7 +13967,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>fd89647b-5bab-404f-8596-a922da444a61</Id>
+<Id>b0eae1d2-7c79-46ea-a087-4e31d428e4e6</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -13986,7 +13986,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>37d316d3-da15-42cf-9a7f-0d53ac3b1a45</Id>
+<Id>f9199b5f-7eb4-4ff8-9d87-42c9d0e34f22</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -14004,7 +14004,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>aa116407-e0d1-41a1-9e16-3eac5c2a192b</Id>
+<Id>c7a03349-dc72-4c66-b351-767281cb99d9</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -14281,7 +14281,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=bb7f54be-d364-4b46-ab83
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>8f77d48c-2fd6-4fe4-a718-d6e17ed0f4bb</Id>
+<Id>763b80aa-e724-48cb-813f-a539016831f1</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -14300,7 +14300,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>5e1a24c0-e342-4a4e-80f7-109c9cae8169</Id>
+<Id>d3651a24-c605-47e1-9a6e-c81699615292</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -14319,7 +14319,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>6423d424-9024-433b-be9e-9b34749aac2e</Id>
+<Id>7134e6e5-c98c-4a2e-9c8f-b0462ec8c026</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -14337,7 +14337,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d23f1288-bcd0-4600-806c-c944f9ed7e85</Id>
+<Id>a01304ba-ae66-4df2-827a-c6743234027b</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -14738,7 +14738,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=d816110b-22b6-4139-bde6
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ddc1f98e-fd93-4985-8cf7-b7011d0ce5bd</Id>
+<Id>b6f04dad-28de-4c62-986b-ca30743b338e</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -14756,7 +14756,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>848fcc9c-68ef-4b57-9b7c-e774886cd102</Id>
+<Id>8f318cd9-da3d-422d-b35a-cd139eb2522b</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -15005,7 +15005,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=33285e07-f1da-48e5-a60a
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>5c009783-824b-47ac-a823-bd8cce76cd0a</Id>
+<Id>13cb186a-de44-465f-92f0-332bb3ad6ae6</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -15024,7 +15024,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ff711b9d-d3e8-4bb0-9d6e-0d97edaab808</Id>
+<Id>9d64aa20-eb6a-48f0-81ad-4de4b185b09b</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -15043,7 +15043,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>027f3073-78af-4fa1-8a63-8417d7b73d2e</Id>
+<Id>fab218c7-791e-488c-be86-2efb083a4d0c</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -15061,7 +15061,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a18b8fb6-9cb0-4d57-8296-5cd1a7b34447</Id>
+<Id>403be51a-98d6-4128-bbc7-388eb402db45</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -15633,7 +15633,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=587411ed-f3cd-4b0d-878b
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>be0f2f3d-cf4c-44ce-8cc8-aaed94d3074f</Id>
+<Id>3b7f75f4-cf9b-4f75-ac03-cbc7303a9837</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -15651,7 +15651,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>29d8b556-b7a2-4ec5-8541-47670914a010</Id>
+<Id>94c69466-fd09-48f0-8694-b01167ef734d</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -16232,7 +16232,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=b35aa7e3-b883-4cbb-b7c5
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>53331f4b-f135-4b92-bae1-0d6fc4963d5b</Id>
+<Id>0acf7d2b-9c01-4ed2-86a2-4b8d425c6dc9</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -16250,7 +16250,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>6956f8da-4e6b-4793-8de3-3359d7a780f8</Id>
+<Id>a0e6902f-5c28-4ddd-8ab6-038fdce3123f</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -16588,7 +16588,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=593d0601-c220-4cb7-a201
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>077b154a-0433-4c71-9ccb-ec1b21b38d29</Id>
+<Id>99ecb20a-7442-4ae2-afc8-abe5d4b194cd</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -16606,7 +16606,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>0d2d9c6a-d398-4762-899d-d043ca243041</Id>
+<Id>ea2bf73d-51db-4eec-b30b-1a8e406da67e</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -17101,7 +17101,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=301eab43-f0e0-479f-a0ba
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a4e141df-d828-4d93-bb9f-d882e3e6438d</Id>
+<Id>a19c7745-a166-4582-98ae-6861cef2e507</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -17119,7 +17119,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e3c05529-5fe6-4c66-b65e-cc4034e9a910</Id>
+<Id>5bce7ce1-51d0-4853-9477-1ca4f77bca0a</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -17685,7 +17685,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=2c634ab3-f49b-4270-a4cb
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>08dd9ed9-7747-4609-9f1d-cd95cd212c2a</Id>
+<Id>50fa8866-1b66-4b1e-92cb-b0d3c4d47584</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -17703,7 +17703,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9bc25cf1-73e5-4608-b000-ce971a031c0a</Id>
+<Id>ba48cfc6-41b4-4088-bb6a-b5920d0180d6</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -17980,7 +17980,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=4932f608-4077-45c1-b997
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>8a3e6bfe-d363-4e2a-b306-995c127de455</Id>
+<Id>38cb5112-b4be-43ae-95b6-95ee2e1a635c</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -17999,7 +17999,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d3314514-c663-4a0c-ac6e-41f85d03cfbb</Id>
+<Id>207fac6b-b1dc-47ad-9a13-3e17be740561</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -18018,7 +18018,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a9f792c0-c0e8-4a7c-9ede-96ded8f1b7b5</Id>
+<Id>3dd160f8-a8b1-447e-a3a9-11adbd26f3d0</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -18036,7 +18036,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b41e37e6-6091-4038-a7b3-c288d0df09b8</Id>
+<Id>b46167c4-5f22-49e0-8f75-7d42759cd644</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -18532,7 +18532,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=5ce629bd-55b5-4e89-8281
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>3a2a319b-c40d-46fe-8ef5-705a27583c22</Id>
+<Id>72e8a364-f00a-4df2-83d2-3a8a68260208</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -18550,7 +18550,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>222e755a-9a1f-4d3f-8b3a-9846e3ddb260</Id>
+<Id>f4c52865-00cf-4345-8980-74cd28b11c98</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -18998,7 +18998,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=a2e30629-574b-4284-80c8
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>cd205f6e-6a30-46cb-9e2e-ca4660b4c621</Id>
+<Id>195cca80-8638-4504-83d7-d61a1a041b62</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -19016,7 +19016,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f341a17b-13fe-4d26-8577-cd387c7829df</Id>
+<Id>07d26473-06fd-4dd6-bad5-8a5935399d1e</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -19549,7 +19549,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=9db4be8b-4c64-4008-aaa6
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a7286045-8983-47b0-95b4-36385895ec04</Id>
+<Id>e0d18d9f-374d-4fe8-b50e-14faadb259a3</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -19567,7 +19567,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>261ad076-d673-4f39-aa1f-095b5b7304ec</Id>
+<Id>deee47b5-546b-4f7d-a990-b957254bf3b7</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -19844,7 +19844,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=e8aff98e-2543-4717-bdb7
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>467231ea-7889-4cee-9357-e6b89c7edb60</Id>
+<Id>81d63ceb-a402-4a46-86eb-d20a4a307b61</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -19863,7 +19863,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>0155cf59-76db-46f1-872b-044cbd57443f</Id>
+<Id>c88b1133-8edd-4265-a568-a2e9ab3840f8</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -19882,7 +19882,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>49ef94b1-f8e1-4238-916c-7b995a7eb354</Id>
+<Id>9585907f-6b95-42d8-a324-242c960d2ea4</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -19900,7 +19900,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e4473eeb-da83-45e9-ba82-370fb6e6654f</Id>
+<Id>8be27857-e5e9-4fe6-a4a1-c2a195cab0bd</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -21080,7 +21080,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=d831e09e-4b43-4c5b-8d74
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>2edd4a96-7805-4def-83eb-540c5cd53194</Id>
+<Id>49954894-c532-423e-8f5b-554f49b515ad</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -21098,7 +21098,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>7efb308c-59b3-489a-8fb3-ec70f3997bb8</Id>
+<Id>13d56b61-f4e8-4f24-8a20-3ad98a50289d</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -21574,7 +21574,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=e95a09b8-ebbc-41a7-932b
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>aa1273c4-00bf-4021-a129-f774f06b0ac0</Id>
+<Id>b6420dfa-d5f5-4682-a46b-2bbd18e54b86</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -21592,7 +21592,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>739c4fd0-94e4-47cb-809d-9ece6cab12e2</Id>
+<Id>a6de11a2-c33d-4490-bb75-bcf67aa355f6</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -21869,7 +21869,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=53f330bb-ba6a-4da7-b8fd
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9b759da1-ceee-4734-8abc-a2461d958510</Id>
+<Id>9bc58fc3-24ce-4af1-80ba-4c963b99a190</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -21888,7 +21888,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c12dfbbb-c9bb-4511-b5eb-1b6f99a94675</Id>
+<Id>10536d9a-b054-4e4e-8211-eccd1e19a3e9</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -21907,7 +21907,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>26d14214-5530-4a71-85e7-dd38a45ded80</Id>
+<Id>271fb825-e157-4890-9db6-09160c0cd2d2</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -21925,7 +21925,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b0f444b4-4377-4e46-845c-4443a16c0c2b</Id>
+<Id>5e4cc99b-bfcd-4322-b42f-9ad8ab05d906</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -22345,7 +22345,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=6f39dab9-c36c-464a-b1fc
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>acb9d658-becd-4e11-bc9d-122fb5a39798</Id>
+<Id>d86fa445-467c-4585-a349-041c1b4c1e43</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -22363,7 +22363,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>02e9e312-18b2-44c5-9667-51515bdcc5d8</Id>
+<Id>73258d24-a9de-49df-905f-b42356de277f</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -22725,7 +22725,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=fc6174f2-2b21-4e32-8aa1
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>81771269-5d85-4f3d-a63d-6667b164a29e</Id>
+<Id>bd9810c2-c3fe-48ee-a9de-9dad46912035</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -22743,7 +22743,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b3445157-54ef-4fbe-9e37-bb69e06d4ae2</Id>
+<Id>bee39c55-c9d3-40e1-a13a-4f06563ce71a</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -23200,7 +23200,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=6aab2aa2-ee9a-4d66-ac70
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>3491afec-1145-49c0-a11f-5e09888a0b1e</Id>
+<Id>be4ffbaf-7787-4b2f-a131-ac06d79cfde5</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -23218,7 +23218,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>cd0cbcbe-18c4-436e-86a9-129ad0c6b1e5</Id>
+<Id>0f904ecc-1e3f-4db2-8ec5-df8c0a942671</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -23481,7 +23481,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=4e528960-4d80-4d31-9856
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>2275f1d7-02e8-44fe-9131-4674c5dae961</Id>
+<Id>8af09725-09cb-4469-bc1c-e02b9f625b8c</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -23500,7 +23500,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>2037189b-f749-4733-9d7f-c73443881fe1</Id>
+<Id>e2d14d31-3873-4bd2-ab94-a1b52e3bbc19</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -23519,7 +23519,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>3e9b13b5-a8e4-4645-a01e-f2578f55e689</Id>
+<Id>07877444-adc7-4bd1-a4be-733a81d0c3fa</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -23537,7 +23537,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>dea792bc-d6c5-430b-baf7-84a5f5761fd0</Id>
+<Id>a4af4cf6-d197-45d4-9c7d-0c8e626b9332</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -24052,7 +24052,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=e1899fcf-1d2a-49f7-96ba
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4162a253-1de2-4410-9159-903731e59f74</Id>
+<Id>15fcfa0e-0571-43bf-a0b9-d742843e228e</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -24070,7 +24070,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>02225400-cb8a-4cab-ac47-ff89685b3844</Id>
+<Id>c3d7a4af-72b4-4a69-b830-abbb6b48077d</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -24594,7 +24594,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=c493fa2f-de43-47be-9b2c
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>068121ea-cb44-4826-b54e-fc7855185d58</Id>
+<Id>92752841-b17b-47f7-8514-322fd53197d3</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -24612,7 +24612,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>dd746465-8d78-41bc-854e-9fa3d80c3e23</Id>
+<Id>8b90f2d1-46bf-449a-8130-f85f7a184732</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -25150,7 +25150,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=a7d79f45-7872-433f-be36
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c1e8d4be-a090-4b50-a762-a1c5c513b968</Id>
+<Id>c7322238-faff-4332-9473-406f463f7e1a</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -25168,7 +25168,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d2f04a80-d662-481c-a50a-8456cf8c7110</Id>
+<Id>b93198f7-35ef-4834-9f25-e463da5ca713</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -25720,7 +25720,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=6887b5b1-274a-4044-ac31
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c94e2073-8443-41eb-a12a-0dabba7a2051</Id>
+<Id>424bc85d-0bc5-4a00-bc83-5ee612a41c9b</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -25738,7 +25738,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>dc77f20c-adf4-4454-952a-d00a84370dda</Id>
+<Id>3afb0722-b9ab-4ba3-8808-bfa671bbbf83</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -26001,7 +26001,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=dd058ff4-aa1c-4947-bd47
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>295935b4-1c92-48c0-9b4c-dadefd7dd3ca</Id>
+<Id>f09e1a31-30b1-4293-be45-7ad607ab1d62</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -26020,7 +26020,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f27d6920-38c7-4ea1-9b26-ae1666cd59bb</Id>
+<Id>d63a663b-253f-4f9e-bedf-c935f2fc08d8</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -26039,7 +26039,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f8755959-3a31-4266-bf79-56d3ddad41f1</Id>
+<Id>90e011b6-4cc7-4beb-9bad-7bd108537df2</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -26057,7 +26057,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b6f61fc9-c2d6-499e-b2ee-c5d7dbc2eba9</Id>
+<Id>10c48e47-8a4f-4887-bc69-05d9bfb01aa8</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -26515,7 +26515,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=efbfc92f-b474-46a5-81ab
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>d5c2bb3e-5b04-45ef-9b20-86f1f1016793</Id>
+<Id>287d83df-0b50-4e4c-8c86-cad58b923022</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -26533,7 +26533,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>eb8ab407-5621-4415-bc32-c838d8ae1e41</Id>
+<Id>fbb7d63c-e97a-4218-92f1-25491615605e</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -26971,7 +26971,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=d96240d0-0c23-4e51-86a8
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>c9d79cc7-3684-47ea-8b29-2f5fc9197349</Id>
+<Id>5ee251b9-13fb-428a-8e1b-a4a5fb949ad4</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -26989,7 +26989,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a09b9e99-69ac-4f98-858d-ef4c6564e136</Id>
+<Id>989aa7ee-27b1-4489-80cc-c246771429bf</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -27470,7 +27470,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=60e73b0a-610e-4992-b438
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>09404c7a-3b1b-475a-b1ff-e03a7f077d14</Id>
+<Id>f726c174-acd1-4cd8-a4a1-e0cad35b6b4e</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -27488,7 +27488,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e9ced5d7-02d0-428f-933a-f332af02a087</Id>
+<Id>d1ce8b4e-9672-4b4e-8949-cf87d80b62a1</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -27784,7 +27784,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=67319382-99f3-47e9-8218
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>7da4aa8d-186b-4c5e-9b59-406de8f4ef2d</Id>
+<Id>6329d842-26a6-4ff3-a97a-5299f8cc1691</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -27803,7 +27803,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>7cdc1a26-1138-4de4-9e24-2e969e51176e</Id>
+<Id>fad63356-1bff-4f60-96bc-d105c3883188</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -27822,7 +27822,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>2b6f9595-cb35-4e17-8bf9-9bee82d8e9bf</Id>
+<Id>1e34cf4d-16e0-4309-9f55-9a6a2e12a77a</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -27840,7 +27840,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9c9e354d-4dd1-49ad-a186-43af04e2d334</Id>
+<Id>f41037a9-8548-4447-b40d-ebd27c153073</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -28089,7 +28089,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=a53cd2dd-b2c9-4ec8-b5bf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>fe84410c-5bcb-4b45-8476-68a3e62c07dc</Id>
+<Id>1e03ea4d-beb3-49a3-8cbc-7e29bef0d39e</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -28107,7 +28107,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>76d0ef3c-8ece-4dcf-91c1-cc4112715dae</Id>
+<Id>ebf07d8a-f10f-4fc5-b1de-49297f49e732</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -28351,7 +28351,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=ef194361-21a2-4d70-a047
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>925293f4-8c9a-41cf-82a5-11d4575b3976</Id>
+<Id>8b87969f-67a7-4151-9913-f0132df8dfea</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -28369,7 +28369,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9bb49865-a75a-4fd0-a51e-8a1747255ad4</Id>
+<Id>d7788be9-1743-42d2-9e34-9db49d592a13</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -28452,7 +28452,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=0c993bff-d7f6-4d91-8143
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>46c82458-63ef-4c73-855a-ee7b5f3ed7db</Id>
+<Id>c97fc8a6-e346-43b5-94e8-d656c72d4897</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28471,7 +28471,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4f0edc5d-59f5-4d71-957f-195daee3daf2</Id>
+<Id>7cc286c0-9cb6-4778-b2af-9816968234d0</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28490,7 +28490,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>53fab765-7a2e-4188-8088-ae3460964cd1</Id>
+<Id>579ebf3c-2f8f-410a-b371-3c36731d72cf</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -28508,7 +28508,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>0ace7280-7303-4141-8b7f-3e214e7937b1</Id>
+<Id>f785f564-5ae8-49b9-99cb-62ffa13c5eae</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -28567,7 +28567,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext>SA/EX</Fleet_Marketingtext>
 <Assets>
 <Asset>
-<Id>e438dcd9-aa34-4d51-acb4-cbdfc163c316</Id>
+<Id>a40feb7c-d809-48d7-851c-1bc27bf38ebd</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28586,7 +28586,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>87c21a5e-7f95-40ce-8ff6-6330072806f9</Id>
+<Id>8f1fad21-744f-47c5-af4f-2b9c42307a9a</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28605,7 +28605,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>ce665813-d413-428d-8f4c-6cbf6cab1fa4</Id>
+<Id>a93dec55-8562-4b45-8d7d-71dd011701c7</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -28623,7 +28623,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>60393e6a-385b-420f-b8cb-6726c1f5e475</Id>
+<Id>f50fb9b7-b50e-42d4-940e-5bee1ffd330a</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -28719,7 +28719,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext>SA/EX MY11</Fleet_Marketingtext>
 <Assets>
 <Asset>
-<Id>4128bd06-13bc-49a9-8546-d45808fcd3c3</Id>
+<Id>1a29fdcb-528f-4289-8745-0b1381808de0</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28738,7 +28738,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>36e32a49-f56e-405d-9ed1-659693e7bcf1</Id>
+<Id>f17fb2d8-fd9c-418c-b862-925669d7b392</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28757,7 +28757,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>b98e3c78-da41-40cc-8858-09ea2a1a5f32</Id>
+<Id>4cff7480-85d1-4c23-bdd5-3807f1479c8a</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -28775,7 +28775,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>f23524b9-924f-4175-873f-e1b89bfa180c</Id>
+<Id>17faea42-12b0-40cd-b8a5-9da1a0f7cb0b</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -28871,7 +28871,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext>SA/L</Fleet_Marketingtext>
 <Assets>
 <Asset>
-<Id>5f1bece1-eac4-47d5-8029-2656cd256333</Id>
+<Id>a88888a6-521e-44b6-a5ee-175cc1e35bb5</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28890,7 +28890,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>af92a127-7640-40df-96a1-feea41c7fd9b</Id>
+<Id>9b98be07-1a59-4b0d-9603-a2eb6775f605</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -28909,7 +28909,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>8aa4a40b-afd5-4fab-b839-b0877f669c61</Id>
+<Id>bd5261e5-05b8-44ac-a075-c08cb96cc625</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -28927,7 +28927,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>1912d571-b809-499a-96a3-f9f1d9ed7d90</Id>
+<Id>62b9428d-5dfd-4beb-ac8e-df322a8d8af8</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -29009,7 +29009,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 <Fleet_Marketingtext>SA/LX</Fleet_Marketingtext>
 <Assets>
 <Asset>
-<Id>87963b8c-1ca4-4674-8e65-1522ae501a4b</Id>
+<Id>af453eab-cf6d-4027-ad3f-5eccf9bf57b4</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -29028,7 +29028,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>a6a6b4ae-2b64-4a15-bb12-6bcef53655e8</Id>
+<Id>7d03736a-bf28-48be-b41f-51160ca3e905</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -29047,7 +29047,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>9779c632-95c1-431e-b1dd-43a8a22609fa</Id>
+<Id>18dfeee8-092b-4c97-8c6c-3206c09ebdf0</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -29065,7 +29065,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>93d6d1e0-8bdc-4168-a0f0-2f283904e352</Id>
+<Id>c7cb3f20-3022-433b-8377-b75e0846bf51</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -29152,7 +29152,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_preview/default.jpg
 </Trims>
 <Assets>
 <Asset>
-<Id>569f2ef1-026f-4978-aa00-536cb57870bf</Id>
+<Id>4a535d1a-b73e-488a-8294-073d06d5d23d</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -29171,7 +29171,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4284983a-2018-4730-924f-00377bfeaf09</Id>
+<Id>97fb47d3-fd91-49f7-9344-1eb3112f10a3</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -29190,7 +29190,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>610bad90-c815-4bed-82d0-d4750a8c59c2</Id>
+<Id>975f5683-0480-4973-bee9-7fff51735f35</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -29208,7 +29208,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>4186ff48-7ab7-4230-8d28-868d54deea47</Id>
+<Id>1b6e7e8c-74bc-4748-a6ba-e183b4b3d03e</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -29571,7 +29571,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=f7671cc2-ffed-4980-b2e5
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>5617b852-978d-4460-86fb-7146dbdc7cf6</Id>
+<Id>6ed2cf99-aff0-4d2c-91ac-612d5702e095</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -29589,7 +29589,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>5429edd8-4791-412a-aac8-18ee6104b675</Id>
+<Id>cd69e579-b513-4866-b93d-d31b9c42d5ae</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -29999,7 +29999,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=33226909-53f0-44d4-9db7
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>25b2a22d-599e-4bf7-804d-58f46b880de5</Id>
+<Id>d5abd257-53f0-4410-a99b-ea804eaf6158</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -30017,7 +30017,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>94a5fe50-dadd-4ab5-825c-4a9e69613b88</Id>
+<Id>0eaa3e3d-7797-416a-8866-c14f7ebc9b4b</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
@@ -30266,7 +30266,7 @@ http://ws-previewv2.accept.kia.com/filehandler.ashx?guid=ee97fb06-9815-41a6-bf02
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>fd120374-fdf5-413e-88e3-565637ceffa7</Id>
+<Id>07142ab6-74b4-458a-a3c5-0a0d5078272d</Id>
 <Name>emtpy asset front</Name>
 <ColourCode/>
 <Asset_Type>
@@ -30285,7 +30285,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>e3d5b808-da39-4a12-8339-5f16363b28fa</Id>
+<Id>96c1fda9-180b-4022-9173-107b1ec65baa</Id>
 <Name>emtpy asset rear</Name>
 <ColourCode/>
 <Asset_Type>
@@ -30304,7 +30304,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/1x1.swf
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>7a17bb7d-182c-47cc-9aee-361b10cfac40</Id>
+<Id>fcd641f6-fdfa-4a23-a6a2-956e3aa3d391</Id>
 <Name>default_element_thumb_big</Name>
 <Asset_Type>
 <Id>771a16c6-5b1f-40b4-8df9-f133c9bb609a</Id>
@@ -30322,7 +30322,7 @@ http://ws-previewv2.accept.kia.com/defaultasset/element_thumb_big/default.jpg
 </AssetLocation>
 </Asset>
 <Asset>
-<Id>342727e0-cb26-448d-bf73-79d09b9ea005</Id>
+<Id>573aa07d-af88-4949-b38d-b85b7c1c326a</Id>
 <Name>default_element_preview</Name>
 <Asset_Type>
 <Id>b2cf0b87-b38d-4fe1-a9b5-07e748cb268e</Id>
